@@ -1,0 +1,9 @@
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\bin\Debug\Tree.exe.config
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\bin\Debug\Tree.exe
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\bin\Debug\Tree.pdb
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.Form1.resources
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.Properties.Resources.resources
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.csproj.GenerateResource.Cache
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.exe
+D:\Projects\WinAutomation2019\IA\TicTacTo\Tree\obj\Debug\Tree.pdb

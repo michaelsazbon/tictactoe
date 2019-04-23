@@ -1,0 +1,5 @@
+D:\Projects\WinAutomation2019\IA\TicTacTo\TicTacTo\bin\Debug\TicTacTo.exe.config
+D:\Projects\WinAutomation2019\IA\TicTacTo\TicTacTo\bin\Debug\TicTacTo.exe
+D:\Projects\WinAutomation2019\IA\TicTacTo\TicTacTo\bin\Debug\TicTacTo.pdb
+D:\Projects\WinAutomation2019\IA\TicTacTo\TicTacTo\obj\Debug\TicTacTo.exe
+D:\Projects\WinAutomation2019\IA\TicTacTo\TicTacTo\obj\Debug\TicTacTo.pdb
